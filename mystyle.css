@@ -1,0 +1,67 @@
+/* body{
+    font-family: 'Almarai', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Rakkas', cursive;
+}
+h1{text-align: center;text-decoration-line: underline;background-clip: content-box;}
+.myheadings{
+    background-color: yellow;color: green;
+}
+#idheadings{color: blueviolet;background-color: black;}
+.mainheading{
+    style="color: blue;font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;background-color:rgb(196, 129, 165);text-align:center"
+} */
+.body{
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Rakkas', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.mydiv{
+    box-shadow: -3px 24px 80px -3px rgba(0,0,0,0.75);
+    background-color:#D9EEE1;
+    width: 30%;
+text-align: center;
+padding: 15px 0px;
+border-radius: 40px;
+margin: 50px auto;
+
+}
+.mydiv:hover{
+border: #282A35 2px solid;
+}
+
+.headings{
+    font-size: 100px;
+    font-weight: 700px;
+    font-family:'Source sans pro';
+}
+.subtitles{
+    font-size: 19px;
+}
+a{
+    display: block;
+    margin: 15px auto;
+    
+    width: 200px;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+}
+.learn{
+    background-color: #04AA6D;
+    color: white;
+}
+.video{
+    background-color: #fff080;
+    color: black;
+}
+.reference{
+    background-color: #282A35;
+    color: white;
+}
+.certified{
+    background-color: #FFC0C7;
+    color: black;
+}
